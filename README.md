@@ -10,3 +10,15 @@
 ## 🛠️ Prerequisites  
 - A Google Ads **Search** campaign already exists  
 - Script access with **Administrative** or **Standard** permissions  
+
+## Usage
+	1.	Preview the script in Google Ads to verify changes.
+	2.	Run in small batches to ensure quality.
+	3.	Unpause ad groups when ready for live traffic.
+
+
+## License
+This project is licensed under the MIT License  ￼ ￼
+
+## Contact
+Created by Selcuk Engin – selcuk@engintasarim.com
